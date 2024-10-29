@@ -1,9 +1,12 @@
 <script setup>
 
+
 </script>
 <template>
     <div class="">
-        <h1 class="text-[blue]">Home Page</h1>
+        <ProfileHeader></ProfileHeader>
+        <ProfileHeaderData></ProfileHeaderData>
+        <Alert />
     </div>
 </template>
 
