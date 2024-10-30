@@ -12,7 +12,10 @@ export default defineNuxtConfig({
   },
   // alias help me to catch some elements directly from the source
   alias: {
-    '@': resolve(__dirname, "/")
+
+    // "@": resolve(__dirname, "src"),
+    assets: "/<rootDir>/assets", 
+    
   },
 
   css: [

@@ -7,6 +7,7 @@
         <ProfileHeader></ProfileHeader>
         <ProfileHeaderData></ProfileHeaderData>
         <Alert />
+        <IconsBell />
     </div>
 </template>
 
