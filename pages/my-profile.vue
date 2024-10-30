@@ -4,6 +4,8 @@ definePageMeta({
 
     layout: "custom-layout"
 })
+const { sayHello } = useUtils()
+sayHello()
 
 </script>
 <template>
